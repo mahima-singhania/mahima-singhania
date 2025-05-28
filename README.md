@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I am Mahima Singhania | Data Analyst  
 
-<!--
-**mahima-singhania/mahima-singhania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I specialize in **SQL optimization, Power BI visualizations, Python-based data manipulation**, and **Advanced Excel**, using data to drive actionable insights.  
 
-Here are some ideas to get you started:
+## 🔍 About Me  
+- 💡 Passionate about **data-driven decision-making**  
+- 🎯 Strong business acumen and analytical thinking  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Project 
+### 🔹 [US Electric Grid Power Outage Analysis]([https://github.com/your-repo](https://github.com/mahima-singhania/Power-Outage-Analysis))  
+Analyzed power outage trends using **MS Excel & Power BI**, identifying key patterns affecting increase in power outages.  
+
+## 🛠️ Tech Stack  
+- **SQL** | **Power BI** | **Python** | **Advanced Excel**  
+- **Data Visualization** | **Dashboard Development** | **ETL Processes**
+
+## 📫 Connect with Me  
+- [LinkedIn](https://linkedin.com/in/mahima-singhania)  
+ 
